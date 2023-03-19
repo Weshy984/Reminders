@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "137397697275",
+    "project_id": "reminder-mobx",
+    "storage_bucket": "reminder-mobx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137397697275:android:7312d0a3ffd257a62c0e5e",
+        "android_client_info": {
+          "package_name": "com.example.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137397697275-f2l46sj72ela5tptqfttb4ab079bttgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA31xv52HtXcHJFJGFHGOa3smqaAegy6Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137397697275-f2l46sj72ela5tptqfttb4ab079bttgg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137397697275-gg1arlqj7gfvf68krj5lc75b2bcr1fnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.remember"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
